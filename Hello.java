@@ -1,6 +1,8 @@
 
 public class Hello {
-	public static void main(String[] args) {
-		System.out.println("Ich werde \"Informagier\"!");
+	public static void main (String [] args) {
+		
+		System.out.println("Guten Tag");
 	}
+
 }
